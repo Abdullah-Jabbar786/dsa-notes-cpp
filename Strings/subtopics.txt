@@ -1,0 +1,11 @@
+1. Introduction to Strings
+2. Finding Length of a String
+3. Changing Case of a String
+4. Counting Words and Vowels in a String
+5. Validating a String
+6. Reversing a String
+7. Comparing Strings and Checking Palindrome
+8. Finding Duplicates in a String
+9. Finding Duplicates in a String using Bitwise Operations
+10. Checking if 2 Strings are Anagram (distinct letters)
+11. Permutation of String
