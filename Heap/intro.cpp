@@ -1,8 +1,6 @@
 #include "iostream"
 using namespace std;
 
-
-
 // Array representation of a Heap
 /*
     if a node is at index = i
