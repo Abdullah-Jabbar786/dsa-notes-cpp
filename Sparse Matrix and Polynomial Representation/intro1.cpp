@@ -24,11 +24,9 @@ using namespace std;
 // 3. Row pointer array (row_ptr) → tells where each row starts in val and col_ind.
 
 
-
-
-
-
 // For adding two matrixes the dimensions must be same.
+
+// Incomplete will study later...
 
 int main()
 {
